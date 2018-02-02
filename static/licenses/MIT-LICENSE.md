@@ -12,7 +12,7 @@ The above copyright notice and this permission notice shall be
 included in all copies or substantial portions of the Software.
 You may obtain a copy of the License at
 
-       http://www.jween.io/licenses/APACHE-LICENSE-2.0.md    
+       http://www.jween.io/licenses/MIT-LICENSE.md    
 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
