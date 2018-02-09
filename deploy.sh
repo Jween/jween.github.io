@@ -2,6 +2,11 @@
 
 echo -e "Deploying updates to GitHub..."
 
+# Clean old files
+cd public
+git rm -r *
+cd .. # return to hugo project folder
+
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 

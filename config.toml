@@ -1,9 +1,9 @@
 baseURL = "http://jween.io/"
-languageCode = "en-us"
+languageCode = "en"
 title = "Jwn's"
 theme = "even"
 
-defaultContentLanguage = "en-us"
+defaultContentLanguage = "en"
 enableRobotsTXT = true
 enableEmoji = true
 
@@ -30,7 +30,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "Archives"
   weight = 20
   identifier = "archives"
-  url = "/post/"
+  url = "/posts/"
 [[menu.main]]
   name = "Tags"
   weight = 30
