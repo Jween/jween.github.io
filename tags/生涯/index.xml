@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生涯 on Jwn&#39;s</title>
+    <link>http://jween.io/tags/%E7%94%9F%E6%B6%AF/</link>
+    <description>Recent content in 生涯 on Jwn&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Jan 2018 03:12:49 +0800</lastBuildDate>
+    
+	<atom:link href="http://jween.io/tags/%E7%94%9F%E6%B6%AF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>系统重启</title>
+      <link>http://jween.io/posts/try/</link>
+      <pubDate>Tue, 30 Jan 2018 03:12:49 +0800</pubDate>
+      
+      <guid>http://jween.io/posts/try/</guid>
+      <description>人生, 挺有意思的 来来回回 该来的总会过来 就像, 整理房屋, 突然发现一瓶陈年老酒 以前是怎么醉的 现在更加醉了</description>
+    </item>
+    
+  </channel>
+</rss>
